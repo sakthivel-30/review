@@ -1,0 +1,44 @@
+
+.jumbotron{
+
+text-align: center;
+color:black;}
+.ccc{
+  position: absolute;
+  top: 150px;
+      right: 780;
+      font-size:30px;
+      color: black;
+}    
+  .ddd{
+      position: absolute;
+      top: 150px;
+      right: 630;
+      color:black;
+      font-size:30px;
+  }   
+.eee{
+  position: absolute;
+  top: 150px;
+  right: 230;  
+  color:black; font-size:30px;
+}
+.fff{
+  position: absolute;
+  top: 150px;
+  color:black;
+  right: 410;
+  font-size:30px;
+}
+
+
+.panel-footer{
+  color:black;
+}
+.panrl-heading{
+  background-color: black;
+  color:white;
+}
+*{
+  color:black;
+}

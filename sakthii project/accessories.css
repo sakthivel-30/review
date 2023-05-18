@@ -1,0 +1,60 @@
+
+*{
+    font-style:inherit;
+    color:white;
+     background-color: black;
+  
+}
+
+.ccc{
+    position: absolute;
+        top: 50px;
+        right: 780;
+        font-size:30px;
+}    
+    .ddd{
+        position: absolute;
+        top: 50px;
+        right: 630;
+        font-size:30px;
+    }   
+.eee{
+    position: absolute;
+    top: 50px;
+    right: 230;   font-size:30px;
+}
+.fff{
+    position: absolute;
+    top: 50px;
+    right: 410;
+    font-size:30px;
+}
+
+
+
+
+
+.product {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.product img {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.product-price {
+    color: #888;
+}

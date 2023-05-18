@@ -1,0 +1,60 @@
+
+*{
+    font-style:inherit;
+    color:black;
+
+   
+}
+
+.ccc{
+    position: absolute;
+        top: 50px;
+        right: 780;
+        font-size:30px;   
+        color:black;
+}    
+    .ddd{
+        position: absolute;
+        top: 50px;
+        right: 630;
+        font-size:30px;  
+         color:black;
+    }   
+.eee{
+    position: absolute;
+    top: 50px;
+    right: 230;  
+     font-size:30px; 
+      color:black;
+}
+.fff{
+    position: absolute;
+    top: 50px;
+    right: 410;
+    font-size:30px;  
+     color:black;
+}
+
+
+
+.jumbotron{
+
+  text-align: center;
+  color:black;}
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .car{
+    top:300px;
+  }
+  .abc{
+    position: relative;
+    bottom:120px;
+  }
+  body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQml_1FUYxHQAvXPsZMU-joQ6JHV-qeHr2IJ_W2HO2UzA5cZPBupXwVq4yFqqzQn6B0q8&usqp=CAU"  );
+    background-size: cover;
+}
